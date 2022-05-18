@@ -1,2 +1,2 @@
-# Monkey
+# MonkeyGame
 Monkey Go Game
